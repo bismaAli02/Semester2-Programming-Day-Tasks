@@ -1,0 +1,10 @@
+D:\Semester2\Programming Day\Week9\Calculator App\bin\Debug\Calculator App.exe.config
+D:\Semester2\Programming Day\Week9\Calculator App\bin\Debug\Calculator App.exe
+D:\Semester2\Programming Day\Week9\Calculator App\bin\Debug\Calculator App.pdb
+D:\Semester2\Programming Day\Week9\Calculator App\obj\Debug\Calculator App.csproj.AssemblyReference.cache
+D:\Semester2\Programming Day\Week9\Calculator App\obj\Debug\Calculator_App.GUI.CalculatorForm.resources
+D:\Semester2\Programming Day\Week9\Calculator App\obj\Debug\Calculator_App.Properties.Resources.resources
+D:\Semester2\Programming Day\Week9\Calculator App\obj\Debug\Calculator App.csproj.GenerateResource.cache
+D:\Semester2\Programming Day\Week9\Calculator App\obj\Debug\Calculator App.csproj.CoreCompileInputs.cache
+D:\Semester2\Programming Day\Week9\Calculator App\obj\Debug\Calculator App.exe
+D:\Semester2\Programming Day\Week9\Calculator App\obj\Debug\Calculator App.pdb

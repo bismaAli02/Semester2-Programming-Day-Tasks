@@ -1,0 +1,10 @@
+D:\Semester2\VIVA Tasks\Game Objects\bin\Debug\Game Objects.exe.config
+D:\Semester2\VIVA Tasks\Game Objects\bin\Debug\Game Objects.exe
+D:\Semester2\VIVA Tasks\Game Objects\bin\Debug\Game Objects.pdb
+D:\Semester2\VIVA Tasks\Game Objects\obj\Debug\Game Objects.csproj.AssemblyReference.cache
+D:\Semester2\VIVA Tasks\Game Objects\obj\Debug\Game Objects.csproj.CoreCompileInputs.cache
+D:\Semester2\VIVA Tasks\Game Objects\obj\Debug\Game Objects.exe
+D:\Semester2\VIVA Tasks\Game Objects\obj\Debug\Game Objects.pdb
+D:\Semester2\VIVA Tasks\Game Objects\bin\Debug\EZInput.dll
+D:\Semester2\VIVA Tasks\Game Objects\bin\Debug\EZInput.xml
+D:\Semester2\VIVA Tasks\Game Objects\obj\Debug\Game Objects.csproj.CopyComplete

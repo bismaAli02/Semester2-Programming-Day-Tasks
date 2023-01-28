@@ -1,0 +1,31 @@
+D:\Solution1\Consumer\bin\Debug\Consumer.exe.config
+D:\Solution1\Consumer\bin\Debug\Consumer.exe
+D:\Solution1\Consumer\bin\Debug\Consumer.pdb
+D:\Solution1\Consumer\obj\Debug\Consumer.csproj.AssemblyReference.cache
+D:\Solution1\Consumer\obj\Debug\Consumer.csproj.SuggestedBindingRedirects.cache
+D:\Solution1\Consumer\obj\Debug\Consumer.Properties.Resources.resources
+D:\Solution1\Consumer\obj\Debug\Consumer.csproj.GenerateResource.cache
+D:\Solution1\Consumer\obj\Debug\Consumer.csproj.CoreCompileInputs.cache
+D:\Solution1\Consumer\obj\Debug\Consumer.exe
+D:\Solution1\Consumer\obj\Debug\Consumer.pdb
+D:\Solution1\Consumer\bin\Debug\Framework1.dll
+D:\Solution1\Consumer\bin\Debug\Framework1.pdb
+D:\Solution1\Consumer\obj\Debug\Consumer.Form1.resources
+D:\Solution1\Consumer\obj\Debug\Consumer.csproj.CopyComplete
+D:\Solution1\Consumer\bin\Debug\EZInput.dll
+D:\Solution1\Consumer\bin\Debug\EZInput.xml
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\bin\Debug\Consumer.exe.config
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\bin\Debug\Consumer.exe
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\bin\Debug\Consumer.pdb
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\bin\Debug\EZInput.dll
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\bin\Debug\Framework1.dll
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\bin\Debug\Framework1.pdb
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\bin\Debug\EZInput.xml
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\obj\Debug\Consumer.csproj.AssemblyReference.cache
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\obj\Debug\Consumer.Form1.resources
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\obj\Debug\Consumer.Properties.Resources.resources
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\obj\Debug\Consumer.csproj.GenerateResource.cache
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\obj\Debug\Consumer.csproj.CoreCompileInputs.cache
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\obj\Debug\Consumer.csproj.CopyComplete
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\obj\Debug\Consumer.exe
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Consumer\obj\Debug\Consumer.pdb

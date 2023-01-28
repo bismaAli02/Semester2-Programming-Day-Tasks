@@ -1,0 +1,7 @@
+D:\Semester2\Programming Day\Week4\UAMS\bin\Debug\UAMS.exe.config
+D:\Semester2\Programming Day\Week4\UAMS\bin\Debug\UAMS.exe
+D:\Semester2\Programming Day\Week4\UAMS\bin\Debug\UAMS.pdb
+D:\Semester2\Programming Day\Week4\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\Semester2\Programming Day\Week4\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\Semester2\Programming Day\Week4\UAMS\obj\Debug\UAMS.exe
+D:\Semester2\Programming Day\Week4\UAMS\obj\Debug\UAMS.pdb

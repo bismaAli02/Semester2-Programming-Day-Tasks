@@ -1,0 +1,12 @@
+D:\Semester2\Programming Day\Week11\Custom Controls\bin\Debug\Custom Controls.exe.config
+D:\Semester2\Programming Day\Week11\Custom Controls\bin\Debug\Custom Controls.exe
+D:\Semester2\Programming Day\Week11\Custom Controls\bin\Debug\Custom Controls.pdb
+D:\Semester2\Programming Day\Week11\Custom Controls\obj\Debug\Custom Controls.csproj.AssemblyReference.cache
+D:\Semester2\Programming Day\Week11\Custom Controls\obj\Debug\Custom Controls.csproj.SuggestedBindingRedirects.cache
+D:\Semester2\Programming Day\Week11\Custom Controls\obj\Debug\Custom_Controls.ComboBoxControl.resources
+D:\Semester2\Programming Day\Week11\Custom Controls\obj\Debug\Custom_Controls.Properties.Resources.resources
+D:\Semester2\Programming Day\Week11\Custom Controls\obj\Debug\Custom Controls.csproj.GenerateResource.cache
+D:\Semester2\Programming Day\Week11\Custom Controls\obj\Debug\Custom Controls.csproj.CoreCompileInputs.cache
+D:\Semester2\Programming Day\Week11\Custom Controls\obj\Debug\Custom Controls.exe
+D:\Semester2\Programming Day\Week11\Custom Controls\obj\Debug\Custom Controls.pdb
+D:\Semester2\Programming Day\Week11\Custom Controls\obj\Debug\Custom_Controls.Form1.resources

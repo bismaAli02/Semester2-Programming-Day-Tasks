@@ -1,0 +1,18 @@
+D:\Solution1\Framework1\bin\Debug\Framework1.dll
+D:\Solution1\Framework1\bin\Debug\Framework1.pdb
+D:\Solution1\Framework1\obj\Debug\Framework1.csproj.AssemblyReference.cache
+D:\Solution1\Framework1\obj\Debug\Framework1.csproj.CoreCompileInputs.cache
+D:\Solution1\Framework1\obj\Debug\Framework1.dll
+D:\Solution1\Framework1\obj\Debug\Framework1.pdb
+D:\Solution1\Framework1\bin\Debug\EZInput.dll
+D:\Solution1\Framework1\bin\Debug\EZInput.xml
+D:\Solution1\Framework1\obj\Debug\Framework1.csproj.CopyComplete
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Framework1\bin\Debug\Framework1.dll
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Framework1\bin\Debug\Framework1.pdb
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Framework1\bin\Debug\EZInput.dll
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Framework1\bin\Debug\EZInput.xml
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Framework1\obj\Debug\Framework1.csproj.AssemblyReference.cache
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Framework1\obj\Debug\Framework1.csproj.CoreCompileInputs.cache
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Framework1\obj\Debug\Framework1.csproj.CopyComplete
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Framework1\obj\Debug\Framework1.dll
+D:\Semester2\Programming Day\Week12\Task2\Solution1\Framework1\obj\Debug\Framework1.pdb

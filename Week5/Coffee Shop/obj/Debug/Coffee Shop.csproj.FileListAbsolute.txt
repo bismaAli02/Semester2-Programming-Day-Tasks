@@ -1,0 +1,7 @@
+D:\Semester2\Programming Day\Week5\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+D:\Semester2\Programming Day\Week5\Coffee Shop\bin\Debug\Coffee Shop.exe
+D:\Semester2\Programming Day\Week5\Coffee Shop\bin\Debug\Coffee Shop.pdb
+D:\Semester2\Programming Day\Week5\Coffee Shop\obj\Debug\Coffee Shop.csproj.AssemblyReference.cache
+D:\Semester2\Programming Day\Week5\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+D:\Semester2\Programming Day\Week5\Coffee Shop\obj\Debug\Coffee Shop.exe
+D:\Semester2\Programming Day\Week5\Coffee Shop\obj\Debug\Coffee Shop.pdb
